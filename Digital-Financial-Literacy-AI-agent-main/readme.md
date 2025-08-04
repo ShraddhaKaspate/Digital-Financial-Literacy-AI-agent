@@ -132,7 +132,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shiva-pandala-243914229/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shraddha-kaspate-1323a2306/))
 
 ---
 
