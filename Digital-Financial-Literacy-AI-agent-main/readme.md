@@ -85,27 +85,11 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ---
 
-## 🖼️ Screenshots
-### 🔹 Setting up..
-![Setup & preview image](setup.jpg)
-### 🔹 Agent Instructions...
-![Agent Instructions](agent_instructions.jpg)
-### 🔹 Quick Start Questions...
-![quick_start_questions](quick_start_questions.jpg)
-### 🔹 Tools used & Testing...
-![Tool Used & Testing](tool_testing.jpg)
-### 🔹 Deployment & Preview...
-![Deployment & Testing](deployed.jpg)
-### 🔹 API References after Deployment...
-![api _references](links.jpg)
-### 🔹 Resources List...
-![resourses_list.jpg](resourses_list.jpg)
+
 
 ---
 
-## Recordings(watch to build on your own)
-▶️ [Building](https://youtu.be/oanWlnqpiP4)
-▶️ [Testing & Deployment](https://youtu.be/SfwFLWpIVdk)
+
 
 ---
 
@@ -152,5 +136,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Shiva Pandala**
+> 
 
